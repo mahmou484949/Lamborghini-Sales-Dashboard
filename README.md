@@ -32,6 +32,4 @@ This project presents an interactive Power BI dashboard analyzing Lamborghini sa
 
 * lomborghini dashboard.pbix
 
-## 📬 Contact
 
-Feel free to connect with me for data analysis projects.
